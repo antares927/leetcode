@@ -308,17 +308,6 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki集合”，然后�
 
 <img width="300" src="./assets/gongzhonghao.jpeg">
 
-## 捐赠
-
-[点击查看完整的捐赠列表](./donation.md)
-
-### 微信
-<img width="300" src="./assets/donate-weixin.jpg">
-
-### 支付宝
-<img width="300" src="./assets/donate-zfb.jpg">
-
-
 ## 贡献
 
 - 如果有想法和创意，请提[issue](https://github.com/azl397985856/leetcode/issues)或者进群提
