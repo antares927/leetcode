@@ -9,14 +9,6 @@
 
 > 统计数据的时间是从 2019-09-03 19:40 起至今
 
-简体中文 | [English](./README.en.md)
-
----
-
-![leetcode.jpeg](./assets/leetcode.jpeg)
-
-这个是我写的[纪念项目 Star 突破 1W 的一个短文](./thanksGiving.md)， 记录了项目的"兴起"之路, 大家有兴趣可以看一下，
-如果对这个项目感兴趣，请**点击一下Star**， 项目会**持续更新**，感谢大家的支持。
 
 ## 介绍
 
@@ -35,15 +27,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 第五部分是计划， 这里会记录将来要加入到以上三个部分内容
 
 > 只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。
-
-## 关于我
-
-擅长前端工程化，前端性能优化，前端标准化等，做过.net， 搞过Java，现在是一名前端工程师，我的个人博客：https://lucifer.ren/blog/
-
-我经常会在开源社区进行一些输出和分享，比较受欢迎的有[宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview)
-和[我的第一本小书](https://github.com/azl397985856/automate-everything)。目前本人正在写一本关于《leetcode题解》的实体书，因此可能更新会比较慢，如果有人想要做些贡献或者合作的也可以直接用下面的邮箱联系我。
-
-另外如果大家需要内推的可以找我，我这里有包括阿里，腾讯，头条，网易等很多公司的朋友。有需要可以直接群里联系我，或者发送到我的个人邮箱 [azl397985856@gmail.com]。
 
 ## 食用指南
 
@@ -77,42 +60,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 字符串：前缀树（字典树） ／ 后缀树
 
 
-
-
-## 精彩预告
-
-
-[0042.trapping-rain-water](./problems/42.trapping-rain-water.md):
-
-![0042.trapping-rain-water](./assets/problems/42.trapping-rain-water-1.png)
-
-
-[0547.friend-circles](./problems/547.friend-circles-en.md):
-
-<img width="600" src="./assets/problems/547.friend-circle-bfs.png">
-
-
-
-[backtrack problems](./problems/90.subsets-ii.md):
-
-<img width="600" src="./assets/problems/backtrack.png">
-
-
-
-[0198.house-robber](./problems/198.house-robber.md):
-
-<img width="600" src="./assets/problems/198.house-robber.png">
-
-
-[0454.4-sum-ii](./problems/454.4-sum-ii.md):
-
-<img width="600" src="./assets/problems/454.4-sum-ii.png">
-
-## Top题目进度
-
-- [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) (79 / 100)
-
-- [Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/) (97 / 145)
 
 ## 传送门
 
