@@ -1,15 +1,3 @@
-# LeetCode
-
-[![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
-[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
-[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
-![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=azl397985856.leetcode)
-![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=azl397985856.leetcode)
-
-> 统计数据的时间是从 2019-09-03 19:40 起至今
-
-
 ## 介绍
 
 leetcode 题解，记录自己的 leetcode 解题之路。
@@ -58,8 +46,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 堆：最大堆 ／ 最小堆
 - 树与图：最近公共祖先、并查集
 - 字符串：前缀树（字典树） ／ 后缀树
-
-
 
 ## 传送门
 
@@ -199,71 +185,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [哈夫曼编码和游程编码](./thinkings/run-length-encode-and-huffman-encode.md)
 - [布隆过滤器](./thinkings/bloom-filter.md)
 - [字符串问题](./thinkings/string-problems.md)
-
-### anki 卡片
-
-Anki主要分为两个部分:一部分是关键点到题目的映射，另一部分是题目到思路，关键点，代码的映射。
-
-全部卡片都在[anki-card](./assets/anki/leetcode.apkg)
-
-使用方法：
-
-anki - 文件 - 导入 - 下拉格式选择“打包的 anki集合”，然后选中你下载好的文件，确定即可。
-
-更多关于anki使用方法的请查看[anki官网](https://apps.ankiweb.net/)
-
-目前已更新卡片一览（仅列举正面）：
-
-- 二分法解决问题的关键点是什么，相关问题有哪些?
-- 如何用栈的特点来简化操作， 涉及到的题目有哪些？
-- 双指针问题的思路以及相关题目有哪些？
-- 滑动窗口问题的思路以及相关题目有哪些？
-- 回溯法解题的思路以及相关题目有哪些？
-- 数论解决问题的关键点是什么，相关问题有哪些?
-- 位运算解决问题的关键点是什么，相关问题有哪些?
-
-> 已加入的题目有：#2 #3 #11
-
-### 每日一题
-
-每日一题是在交流群（包括微信和 qq）里通过issues来进行的一种活动，大家一起 解一道题，这样讨论问题更加集中，会得到更多的反馈。而且 这些题目可以被记录下来，日后会进行筛选添加到仓库的题解模块。
-
-- [每日一题汇总](./daily/)
-
-![每日一题汇总](./assets/daily-summary.png)
-
-- [每日一题认领区](https://github.com/azl397985856/leetcode/projects/1)
-
-![每日一题认领区](./assets/daily-board.png)
-
-### 计划
-
-- [anki 卡片 完善](./assets/anki/)
-
-- [字符串类问题汇总](./todo/str/)
-
-## 关注我
-
-我重新整理了下自己的公众号，并且我还给它换了一个名字`脑洞前端`，它是一个帮助你打开大前端新世界大门的钥匙 🔑，在这里你可以听到新奇的观点，看到一些技术尝新，还会收到系统性总结和思考。
-
-在这里我会尽量通过图的形式来阐述一些概念和逻辑，帮助大家快速理解，图解是我的目标。
-
-之后我的文章会同步到微信公众号 `脑洞前端` ，你可以关注获取最新的文章，并和我进行交流。
-
-另外你可以回复大前端进大前端微信交流群， 回复 leetcode 拉你进 leetcode 微信群，如果想加入 qq 群，请回复 qq。
-
-
-<img width="300" src="./assets/gongzhonghao.jpeg">
-
-## 贡献
-
-- 如果有想法和创意，请提[issue](https://github.com/azl397985856/leetcode/issues)或者进群提
-- 如果想贡献代码，请提[PR](https://github.com/azl397985856/leetcode/pulls)
-- 如果需要修改项目中图片，[这里](./assets/drawio/)存放了项目中绘制图的源代码， 大家可以用[draw.io](https://www.draw.io/)打开进行编辑。
-
-## 鸣谢
-
-感谢为这个项目作出贡献的所有[小伙伴](https://github.com/azl397985856/leetcode/graphs/contributors)
 
 ## License
 
